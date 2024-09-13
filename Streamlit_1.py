@@ -2,7 +2,6 @@ import streamlit, pandas
 
 # To run file, paste into terminal: streamlit run Streamlit_1.py
 
-
 # To check configuration, paste into Terminal: streamlit config show
 # Streamlit will automatically read config.toml file but it must be properly located within directory.
 # Directory configuration: folder within same folder as where this file is being run:
@@ -10,7 +9,7 @@ import streamlit, pandas
 #    file: config.toml
 
 
-streamlit.title("Example Streamlit Site - update 2")
+streamlit.title("Example Streamlit Site")
 
 # ______________________________________________
 # Widget 1 (Top-level widget) - File Uploader
