@@ -2,6 +2,8 @@ import streamlit, pandas
 
 # To run file, paste into terminal: streamlit run Streamlit_1.py
 
+# typing out this line to see wha thappens when the app is updated to v2 deployment
+
 # To check configuration, paste into Terminal: streamlit config show
 # Streamlit will automatically read config.toml file but it must be properly located within directory.
 # Directory configuration: folder within same folder as where this file is being run:
